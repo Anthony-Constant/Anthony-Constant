@@ -1,4 +1,4 @@
-<h1 align= "Centre"> Hello, <img src="https://tenor.com/search/wave-gifs" width="55px" height"55px">, I'm Anthony </h1>
+<h1 align= "Centre"> Hello, <img src="https://tenor.com/search/wave-gifs">, I'm Anthony </h1>
 
 - 👋 Hi, I’m Anthony Constant
 - 👀 I’m interested in Computer science | Networking | Cyber Security
