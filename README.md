@@ -1,5 +1,6 @@
 <h1> Hi 👋, I'm Anthony Constant </h1>
-![](https://komarev.com/ghpvc/?username=PlugAC)
+![](https://komarev.com/ghpvc/?username=your-github-PlugAC&color=brightgreen)
+
 
 - 👀 I’m interested in Computer science | Networking | Cyber Security
 - 🌱 I’m currently learning BSc (Hons) Computer science (Networks)
