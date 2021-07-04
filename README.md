@@ -1,6 +1,5 @@
 <h1> Hi 👋, I'm Anthony Constant </h1>
 
-- 👋 Hi, I’m Anthony Constant
 - 👀 I’m interested in Computer science | Networking | Cyber Security
 - 🌱 I’m currently learning BSc (Hons) Computer science (Networks)
 - 💞️ I’m looking to collaborate on any projects
