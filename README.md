@@ -1,4 +1,4 @@
-<h1 align= "Centre"> Hello, <img src="https://github.com/Mit382/blob/main/wave.gif" width="55px" height"55px">, I'm Anthony </h1>
+<h1 align= "Centre"> Hello, <img src="https://tenor.com/search/wave-gifs" width="55px" height"55px">, I'm Anthony </h1>
 
 - 👋 Hi, I’m Anthony Constant
 - 👀 I’m interested in Computer science | Networking | Cyber Security
@@ -11,3 +11,4 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W144CAO)
 
+<div class="tenor-gif-embed" data-postid="22026836" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/wave-hello-emote-flat-waving-gif-22026836">Wave Hello GIF</a> from <a href="https://tenor.com/search/wave-gifs">Wave GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
