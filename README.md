@@ -1,4 +1,4 @@
-<h1 align=Centre"> Hi<img src=https://github.com/Mit382/blob/main/wave.gif" width="55px" height"55px">, I am Anthony </h1>
+<h1 align= "Centre"> Hi<img src=https://github.com/Mit382/blob/main/wave.gif" width="55px" height"55px">, I am Anthony </h1>
 
 - 👋 Hi, I’m Anthony Constant
 - 👀 I’m interested in Computer science | Networking | Cyber Security
@@ -10,3 +10,4 @@
 - 🍟 My Blog: https://anthonyconstant.co.uk/blog
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W144CAO)
+
