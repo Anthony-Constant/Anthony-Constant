@@ -1,3 +1,5 @@
+<h1 align=Centre"> Hi<img src=https://github.com/Mit382/blob/main/wave.gif" width="55px" height"55px">, I am Anthony </h1>
+
 - 👋 Hi, I’m Anthony Constant
 - 👀 I’m interested in Computer science | Networking | Cyber Security
 - 🌱 I’m currently learning BSc (Hons) Computer science (Networks)
