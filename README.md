@@ -8,4 +8,7 @@
 - 💻 My Portfolio: https://anthonyconstant.co.uk/
 - 🍟 My Blog: https://anthonyconstant.co.uk/blog
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W144CAO)
