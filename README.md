@@ -13,19 +13,6 @@
 
 
 
-<!-- links to social media icons -->
-[![alt text][2.1]][2]
-<!-- no need to change these -->
-<!-- icons with padding -->
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-[2]: https://www.facebook.com/AnthonyConstant.co.uk/
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-
-
-
 ![](https://komarev.com/ghpvc/?username=your-github-PlugAC&color=brightgreen)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W144CAO)
