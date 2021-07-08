@@ -6,7 +6,7 @@
 - 🎓 I'm a BSc (Hons) Computer science (Networks) Graduate at University of Hertfordshire 
 - 💞️ I’m looking to collaborate on any projects related to CS
 - ⚡ Fun fact: I enjoy problem solving :) 
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - 📫 How to reach me: https://anthonyconstant.co.uk/contact
 - 💻 My Portfolio: https://anthonyconstant.co.uk/
 - 🍟 My Blog: https://anthonyconstant.co.uk/blog
