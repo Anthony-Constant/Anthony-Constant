@@ -3,7 +3,7 @@
 
 
 - 👀 I’m interested in Computer science | Networking | Cyber Security
-- 🌱 I’m currently learning BSc (Hons) Computer science (Networks)
+- 🎓 I'm a BSc (Hons) Computer science (Networks) Graduate at University of Hertfordshire 
 - 💞️ I’m looking to collaborate on any projects related to CS
 - ⚡ Fun fact: I enjoy problem solving :) 
 - 😄 Pronouns: He/His
