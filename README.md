@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in Computer science | Networking | Cyber Security
 - 🎓 I'm a BSc (Hons) Computer science (Networks) Graduate at University of Hertfordshire 
-- 💞️ I’m looking to collaborate on any projects related to CS
+- 💞️ I’m looking to collaborate on any CS related projects
 - ⚡ Fun fact: I enjoy problem solving :) 
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: https://anthonyconstant.co.uk/contact
