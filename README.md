@@ -5,7 +5,7 @@
 - 👀 I’m interested in Computer science | Networking | Cyber Security
 - 🎓 I'm a BSc (Hons) Computer science (Networks) Graduate at University of Hertfordshire 
 - 💞️ I’m looking to collaborate on any CS related projects
-- ⚡ Fun fact: I enjoy Old School RuneScape(OSRS)⚔️ RSN: PlugWalkAnt
+- ⚡ Fun fact: I playing enjoy Old School RuneScape(OSRS)⚔️ RSN: PlugWalkAnt
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: https://anthonyconstant.co.uk/contact
 - 💻 My Portfolio: https://anthonyconstant.co.uk/
