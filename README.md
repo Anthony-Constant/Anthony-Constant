@@ -5,7 +5,7 @@
 - 👀 I’m interested in Computer science | Networking | Cyber Security
 - 🎓 1st Class BSc (Hons) Computer science (Networks) Graduate 
 - 💞️ Open to collaborating on CS related projects
-- ⚡ Fun fact: OSRS Player⚔️ RSN:PlugWalkAnt
+- ⚡ Fun fact: OSRS Player⚔️
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: https://anthonyconstant.co.uk/contact
 - 💻 My Portfolio: https://anthonyconstant.co.uk/
