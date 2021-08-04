@@ -1,4 +1,6 @@
-<h1 align= "center"> Hi, I'm Anthony Constant 👋 </h1>
+
+<h1 align="center">Hi, I'm Anthony Constant <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"></h1>
+
 
 
 
