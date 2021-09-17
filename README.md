@@ -5,8 +5,7 @@
 
 
 
-- 🎓 1st Class BSc (Hons) Computer science (Networks) Graduate 
-- 💞️ Open to collaborating on computer science related projects
+- 🎓 First-class BSc (Hons) Computer science (Networks) Graduate 
 - ⚡ Fun fact: OSRS Player⚔️
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: https://anthonyconstant.co.uk/contact
