@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi, I'm Anthony Constant <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"></h1>
 
-
-
+<img src="https://i.postimg.cc/LYdchw56/MAIN-00-00-00-00-00-30-1.gif" width="300px">
 
 
 - 🎓 First-class BSc (Hons) Computer science (Networks) Graduate 
@@ -15,6 +14,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-PlugAC&color=brightgreen)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W144CAO)
+
 
 <h2 align= "center"> Let's connect 🤝🏼 </h2>
 
