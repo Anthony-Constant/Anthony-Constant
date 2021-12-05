@@ -2,8 +2,7 @@
 <h1 align="center">Hi, I'm Anthony Constant <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"></h1>
 
 
-
-
+- 💼 Graduate Desktop Support Administrator at Trayport 
 - 🎓 First-class BSc (Hons) Computer science (Networks) Graduate 
 - ⚡ Fun fact: OSRS Player⚔️
 - 😄 Pronouns: He/Him
