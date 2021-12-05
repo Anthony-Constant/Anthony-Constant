@@ -7,7 +7,6 @@
 - ⚡ Fun fact: OSRS Player⚔️
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: https://anthonyconstant.co.uk/contact
-- 💻 My Portfolio: https://anthonyconstant.co.uk/
 - 🍟 My Blog: https://anthonyconstant.co.uk/blog
 
 <img src="https://i.postimg.cc/LYdchw56/MAIN-00-00-00-00-00-30-1.gif" width="300px">
