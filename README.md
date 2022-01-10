@@ -4,7 +4,7 @@
 
 - 💼 Graduate Desktop Support Administrator at Trayport 
 - 🎓 First-class BSc (Hons) Computer science (Networks) Graduate 
-- ⚡ Fun fact: OSRS Player⚔️
+- ⚔️ Fun fact: OSRS Player
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: https://anthonyconstant.co.uk/contact
 - 🍟 My Blog: https://anthonyconstant.co.uk/blog
