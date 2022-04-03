@@ -3,7 +3,7 @@
 
 - 😄 Pronouns: He/Him
 - 🎓 First-class BSc (Hons) Computer science (Networks) Graduate 
-- 💼 Graduate Desktop Support Administrator at Trayport 
+- 💼 Graduate Desktop Support Administrator
 - 📫 How to reach me: https://anthonyconstant.co.uk/contact
 - 🍟 My Blog: https://anthonyconstant.co.uk/blog
 
