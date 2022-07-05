@@ -1,5 +1,5 @@
 
-<h1 align="center">Anthony Constant <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"></h1>
+<h1 align="center">Anthony Constant </h1>
 
 - 😄 Pronouns: He/Him
 - 🎓 First-class BSc (Hons) Computer science (Networks) Graduate 
