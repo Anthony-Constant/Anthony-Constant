@@ -1,11 +1,15 @@
 
 <h1 align="center">Anthony Constant <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
+<h2>👨🏻‍💻 About Me:</h2>
+
+I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from England, UK.
+
 - 😄 Pronouns: He/Him
-- 🎓 First-class BSc (Hons) Computer science (Networks) Graduate 
-- 💼 Graduate Desktop Support Administrator
-- 📫 How to reach me: https://anthonyconstant.co.uk/contact
-- 🍟 My Blog: https://anthonyconstant.co.uk/blog
+- 🎓 I'm a First-class BSc (Hons) Computer science (Networks) Graduate 
+- 💼 I'm working as a Graduate Desktop Support Administrator at Trayport
+- 📫 Reach me via: https://anthonyconstant.co.uk/contact
+- 🍟 Blog updates: https://anthonyconstant.co.uk/blog
 
 <img src="https://i.postimg.cc/LYdchw56/MAIN-00-00-00-00-00-30-1.gif" width="300px">
 
