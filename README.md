@@ -1,6 +1,8 @@
 
 <h1 align="center">Anthony Constant <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
+<img src="https://i.postimg.cc/LYdchw56/MAIN-00-00-00-00-00-30-1.gif" width="300px">
+
 <h2>👨🏻‍💻 About Me:</h2>
 
 I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from England, UK.
@@ -11,7 +13,7 @@ I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - 📫 Reach me via: https://anthonyconstant.co.uk/contact
 - 🍟 Blog updates: https://anthonyconstant.co.uk/blog
 
-<img src="https://i.postimg.cc/LYdchw56/MAIN-00-00-00-00-00-30-1.gif" width="300px">
+
 
 ![](https://komarev.com/ghpvc/?username=your-github-PlugAC&color=brightgreen)
 
