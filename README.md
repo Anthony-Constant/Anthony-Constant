@@ -26,13 +26,5 @@ I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 
 <h2 align= "center">📈 GitHub Stats</h2>
-<p align="center">&nbsp;<img align="center" src= "https://github-readme-stats.vercel.app/api?username=Anthony-Constant&show_icons=truen&icon_color=bb2acf&count_private=true&theme=algolia&bg_color=0500206A" alt="Anthony-Constant" /> </p>
-<!-- blueberry_duo&bg_color=151515 -->
-<!--  ![Vari's GitHub stats](https://github-readme-stats.vercel.app/api?username=varshitha1707&show_icons=truen&icon_color=bb2acf&count_private=true&theme=radical)  -->
- 
-<!-- <p align="center">&nbsp;<img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=varshitha1707&layout=compact&theme=radical" alt="PlugAC" /> </p> -->
-
-<p align="center">&nbsp;<img align="center" src= "https://github-readme-streak-stats.herokuapp.com/?user=Anthony-Constant&layout=compact&theme=blueberry_duo&background=0500206A&dates=3795DD" alt="PlugAC" /> </p>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Anthony-Constant&theme=dark&layout=compact)
 
