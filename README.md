@@ -5,7 +5,7 @@
 <img src="https://i.postimg.cc/LYdchw56/MAIN-00-00-00-00-00-30-1.gif" width="300px">
  
 ![](https://komarev.com/ghpvc/?username=your-github-PlugAC&color=brightgreen)
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W144CAO)
+
 </div>
 
 <h2>👨🏻‍💻 About Me:</h2>
@@ -17,6 +17,8 @@ I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - 💼 I'm working as a Graduate Desktop Support Administrator at Trayport
 - 📫 Reach me via: https://anthonyconstant.co.uk/contact
 - 🍟 Blog updates: https://anthonyconstant.co.uk/blog
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W144CAO)
 
 
 <h2 align= "center">🤝🏼 Let's connect </h2>
