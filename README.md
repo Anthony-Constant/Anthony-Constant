@@ -3,8 +3,9 @@
 
 <div align="center">
 <img src="https://i.postimg.cc/LYdchw56/MAIN-00-00-00-00-00-30-1.gif" width="300px">
- ![](https://komarev.com/ghpvc/?username=your-github-PlugAC&color=brightgreen)
- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W144CAO)
+ 
+![](https://komarev.com/ghpvc/?username=your-github-PlugAC&color=brightgreen)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W144CAO)
 </div>
 
 <h2>👨🏻‍💻 About Me:</h2>
