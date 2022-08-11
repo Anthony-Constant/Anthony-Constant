@@ -26,6 +26,8 @@ I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 
 <h2 align= "center">📈 GitHub Stats</h2>
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anthony-Constant&theme=dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Anthony-Constant&theme=dark&layout=compact)
 
