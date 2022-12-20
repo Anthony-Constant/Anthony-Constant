@@ -16,7 +16,6 @@ I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - 😄 Pronouns: He/Him
 - 🎓 I'm a First-class BSc (Hons) Computer science (Networks) Graduate 
-- 💼 I'm working as a Graduate Desktop Support Administrator at Trayport
 - 📫 Reach me via: https://anthonyconstant.co.uk/contact
 - 🍟 Blog updates: https://anthonyconstant.co.uk/blog
 
