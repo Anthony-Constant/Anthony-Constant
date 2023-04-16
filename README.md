@@ -4,7 +4,7 @@
 <div align="center">
 <img src="https://i.postimg.cc/LYdchw56/MAIN-00-00-00-00-00-30-1.gif" width="300px">
  
- <p align="center">  <a href="https://www.linkedin.com/in/anthony-constant-5217721a9/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.instagram.com/anthonyconstant.co.uk/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
+ <p align="center">  <a href="https://www.linkedin.com/in/anthony-constant-639b11271/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>  </p>
  
 ![](https://komarev.com/ghpvc/?username=your-github-PlugAC&color=brightgreen)
 
